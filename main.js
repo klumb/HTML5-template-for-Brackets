@@ -35,7 +35,6 @@ define(function (require, exports, module) {
                 "<body>\n" +
                 "\t<header></header>\n" +
                 "\t<main></main>\n" +
-                "\t<footer></footer>\n" +
                 "\t<script type=\"text/javascript\" src=\"\"></script>\n" +
                 "</body>\n\n" +
                 "</html>";
@@ -54,3 +53,4 @@ define(function (require, exports, module) {
     menu.addMenuItem(COMMAND_ID);
     menu.addMenuDivider();
 });
+
